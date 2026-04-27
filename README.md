@@ -182,6 +182,4 @@ For enterprise deployment:
 
 ## 👨‍💻 Author
 
-**Sivam** | AI/ML Engineer
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
+**Sivarkamani** | AI/ML Engineer
